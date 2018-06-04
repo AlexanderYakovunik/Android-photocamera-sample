@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Photocamera</string>
+    <string name="delete">Delete</string>
+    <string name="directory_created">Directory for photos keeping \"Pictures\/MyFolder\" has created</string>
+    <string name="doSomething">Do something</string>
+    <string name="file_deleted">Delete this file?</string>
+    <string name="managementButton">Photo Manage</string>
+    <string name="no">No</string>
+    <string name="no_permitted">No permitted:</string>
+    <string name="noFiles">No chosen files</string>
+    <string name="ok">OK</string>
+    <string name="photoButton">Photo</string>
+    <string name="select"> </string>
+    <string name="yes">Yes</string>
+</resources>
